@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: tendaimutunhire
+Build-Jdk: 1.6.0_38
+Implementation-Title: Helloworld - Jersey sample
+Implementation-Version: 1.17
+Implementation-Vendor-Id: com.sun.jersey.samples
+Implementation-Vendor: Oracle Corporation
+Build-Id: 1.17 ${buildNumber}
+Created-By: Maven Integration for Eclipse
+
